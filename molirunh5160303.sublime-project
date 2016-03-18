@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+     "settings":
+     {
+          "xdebug": {
+            "url": "http://localhost/molirunh5160303/index.php"
+        }
+     }
+}

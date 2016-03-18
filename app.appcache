@@ -1,0 +1,123 @@
+CACHE MANIFEST 
+# v201601192031
+# ===========cache static resouce
+#loading
+
+images/load/1.png
+images/load/2.png
+images/load/3.png
+images/load/4.png
+images/load/5.png
+images/load/6.png
+images/load/7.png
+images/load/8.png
+images/load/9.png
+images/load/10.png 
+images/load/11.png 
+images/load/12.png 
+images/load/13.png
+images/load/14.png 
+images/load/15.png
+images/load/16.png 
+images/load/17.png
+images/load/18.png
+images/load/19.png
+images/load/20.png
+
+
+# p1
+images/p1/bg1.png
+images/p1/1.png
+images/p1/2.png
+images/p1/3.png
+images/p1/4.png
+images/p1/5.png
+images/p1/6.png
+images/p1/7.png
+images/p1/8.png
+images/p1/float/bg1.png
+images/p1/float/1.png
+images/p1/float/bg2.png
+images/p1/float/2.png
+images/p1/float/3.png
+# p2
+images/p2/bg2.png
+images/p2/1.png
+images/p2/2.png
+images/p2/3.png
+images/p2/4.png
+images/p2/button.png
+# p3
+images/p3/bg3.png
+images/p3/1.png
+images/p3/2.png
+images/p3/3.png
+images/p3/4.png
+# p4
+images/p4/bg4.png
+images/p4/1.png
+images/p4/2.png
+images/p4/3.png
+images/p4/4.png
+# p5
+images/p6/bg.png
+images/p6/1.png
+images/p7/bg7.png
+images/p7/1.png
+images/p7/2.png
+images/p7/3.png
+images/share/2.png
+images/share/1.png
+# p6
+images/p5/bg5.png
+images/p5/3.png
+images/p5/1.png
+images/p5/2.png
+#p8
+images/p8/bg8.png
+images/p8/1.png
+
+# other
+images/share.jpg
+images/transparent.png
+
+# media
+media/music-icon.png
+media/music-icon-s.png
+media/BGM.mp3
+
+# css
+css/app.css
+
+# js
+js/audioplayer/audioplayer.css
+js/audioplayer/audioplayer.js
+js/fastclick/fastclick.js
+js/jquery/jquery-2.1.4.min.js
+js/motion/landscape.min.js
+js/motion/landscape.png
+js/motion/loader.min.js
+js/motion/overlay.min.js
+js/motion/film.min.js
+js/swiper/animate.min.css
+js/swiper/swiper.animate1.0.2.min.js
+js/swiper/swiper.jquery.min.js
+js/swiper/swiper.min.css
+js/swiper/swiper.min.js
+js/zepto/zepto.min.js
+js/app.js
+
+
+
+# ===========Use from network if available 
+NETWORK: 
+db
+tracking
+weChat
+http://res.wx.qq.com
+http://open.weixin.qq.com
+https://api.weixin.qq.com
+http://wx.qlogo.cn
+
+# ===========Fallback content 
+FALLBACK: 

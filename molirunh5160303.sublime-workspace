@@ -1,0 +1,1256 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"GET",
+				"getBrandWCPayRequest"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"s",
+				"slideTo"
+			],
+			[
+				"swipe",
+				"swipeUp"
+			],
+			[
+				"scr",
+				"scripts"
+			],
+			[
+				"tim",
+				"timerange-layout"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"camp",
+				"campaign-list"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"set",
+				"set_sharecontent"
+			],
+			[
+				"update",
+				"update_wechatsharecontent"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"st",
+				"starttime"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"trans",
+				"translate3d"
+			],
+			[
+				"page_",
+				"page_v_index"
+			],
+			[
+				"page",
+				"page_v_index"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"fu",
+				"fullpage"
+			],
+			[
+				"to",
+				"totalscore"
+			],
+			[
+				"tra",
+				"tracking"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"head",
+				"headimgurl"
+			],
+			[
+				"lod",
+				"load_ranklist"
+			],
+			[
+				"d",
+				"data"
+			],
+			[
+				"c",
+				"currentuserphone"
+			],
+			[
+				"curr",
+				"get_currentuserphone"
+			],
+			[
+				"get_",
+				"get_headimgurl"
+			],
+			[
+				"curre",
+				"currentuserphone"
+			],
+			[
+				"we",
+				"welcone-close"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"show",
+				"show_hit"
+			],
+			[
+				"b",
+				"both"
+			],
+			[
+				"f",
+				"font"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"rmb",
+				"rmb-layout"
+			],
+			[
+				"WID",
+				"width"
+			],
+			[
+				"prize",
+				"prize_wrampack"
+			],
+			[
+				"wr",
+				"wrampackprize"
+			],
+			[
+				"row",
+				"num_rows"
+			],
+			[
+				"rs",
+				"rs_query"
+			],
+			[
+				"strr",
+				"str_replace"
+			],
+			[
+				"result",
+				"ResultBackground"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"game",
+				"game-layout"
+			],
+			[
+				"swiper",
+				"swiperup"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"fot",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wxpay/pub/pay.php",
+			"settings":
+			{
+				"buffer_size": 3948,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/pay.js",
+			"settings":
+			{
+				"buffer_size": 11208,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "db/getsharelog.php",
+			"settings":
+			{
+				"buffer_size": 823,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "db/molirun.sql",
+			"settings":
+			{
+				"buffer_size": 1324,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 6348,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "Xdebug Context",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "|+| \"$config['oauth']\"\n|+| \"'http://'.$_SERVER['HTTP_HOST'].$_SERVER['PHP_SELF'].$_SERVER['QUERY_STRING']\"\n",
+			"settings":
+			{
+				"buffer_size": 107,
+				"line_ending": "Unix",
+				"name": "Xdebug Watch",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "Xdebug Stack",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "=> /Applications/XAMPP/xamppfiles/htdocs/WxpayAPI_php_v3/example/WxPay.JsApiPay.php\n    |+| 46\n=> /Applications/XAMPP/xamppfiles/htdocs/WxpayAPI_php_v3/example/getjsapi.php\n    |+| 20\n=> /Applications/XAMPP/xamppfiles/htdocs/createc-wechat/sentschedulemsg.php\n    |+| 15\n=> /Applications/XAMPP/xamppfiles/htdocs/createc-wechat/server.php\n    |+| 22\n    |+| 77\n=> /Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/index.php\n    |+| 10\n=> /Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/oauth_callback.php\n    |+| 8\n=> /Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/test.php\n    |+| 12\n=> /Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/vendor/overtrue/socialite/src/Providers/WeChatProvider.php\n    |+| 49\n=> /Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/vendor/overtrue/wechat/src/Foundation/ServiceProviders/OAuthServiceProvider.php\n    |+| 44\n    |+| 73\n=> /Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/wxpay/pub/pay.php\n    |+| 2\n    |+| 23\n    |+| 37\n=> /Users/createc/Documents/dev/projects/CREATEC/20160223 茉莉跑/molirunh5160303/index.php\n    |+| 3\n    |+| 12\n=> /Users/createc/Documents/dev/projects/CREATEC/20160223 茉莉跑/molirunh5160303/server.php\n    |+| 12\n=> /Users/createc/Downloads/WxpayAPI_php_v3/example/WxPay.JsApiPay.php\n    |+| 46\n",
+			"settings":
+			{
+				"buffer_size": 1285,
+				"line_ending": "Unix",
+				"name": "Xdebug Breakpoint",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"last_filter": "xde",
+		"selected_items":
+		[
+			[
+				"xde",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xd",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xdebu",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xdebug",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"x",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xe",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"installpackage",
+				"Package Control: Install Package"
+			],
+			[
+				"X",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"xdeb",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xs",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"XDEBU",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xdee",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xdebug:st",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xden",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xdeebug",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"xdebug:s",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"xdebg",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xdeubug",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/molirunh5160303",
+		"/Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/db",
+		"/Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/js",
+		"/Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/wxpay",
+		"/Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/wxpay/pub"
+	],
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/molirun16-h5app.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/pay.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/task.text",
+		"/Applications/XAMPP/xamppfiles/htdocs/WxpayAPI_php_v3/example/jsapi.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/test.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/vendor/overtrue/wechat/src/Foundation/ServiceProviders/OAuthServiceProvider.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/vendor/pimple/pimple/src/Pimple/Container.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/vendor/overtrue/socialite/src/Providers/WeChatProvider.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/vendor/symfony/http-foundation/RedirectResponse.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/vendor/symfony/http-foundation/Session/Storage/Proxy/SessionHandlerProxy.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/vendor/overtrue/wechat/src/Core/AccessToken.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/vendor/doctrine/cache/lib/Doctrine/Common/Cache/FileCache.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/oauth_callback.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/molirunh5160303.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/molirunh5160303/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php",
+		"/Users/createc/Documents/dev/projects/CREATEC/20160223 茉莉跑/molirunh5160303/phpinfo.php",
+		"/Users/createc/Documents/dev/projects/CREATEC/20160223 茉莉跑/molirunh5160303/=============================================安装php",
+		"/Users/createc/Documents/dev/projects/CREATEC/20160223 茉莉跑/molirunh5160303/molirunh5160303.sublime-project",
+		"/Users/createc/Documents/dev/projects/CREATEC/20160223 茉莉跑/molirun-h5app/server.php",
+		"/Users/createc/Documents/dev/projects/CREATEC/20160223 茉莉跑/molirun-h5app/weChat/weChatId.php",
+		"/Users/createc/Documents/dev/projects/CREATEC/20160223 茉莉跑/wechatpay/服务器/ngxin.conf",
+		"/Applications/XAMPP/xamppfiles/htdocs/createc-wechat/weChatId.php",
+		"/Users/createc/Documents/dev/git/createc-wechat/openidlist.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/createc-wechat/createc-webchat.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/createc-wechat/server.php",
+		"/Users/createc/Downloads/download (1)",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/Gallery+/SHOWTIME/showtime/task.txt",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/Gallery+/SHOWTIME/showtime/app/scripts/main.js",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/Gallery+/SHOWTIME/showtime/bower.json",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/Gallery+/SHOWTIME/showtime/app/styles/main.scss",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/Gallery+/SHOWTIME/showtime/app/index.html",
+		"/Users/createc/Documents/dev/projects/CREATEC/20160223 茉莉跑/wechat.txt",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/showtime/app/styles/app.css",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/showtime/Gruntfile.js",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/showtime/app/scripts/main.js",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/showtime/dist/index.html",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/showtime/app/index.html",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/showtime/package.json",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/showtime/bower.json",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/showtime/task.txt",
+		"/Users/createc/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/createc/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/createc/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/createc/Library/Application Support/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/Users/createc/Documents/dev/git/FullScreenMario-master/test.html",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/showtime/app/styles/main.css",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/showtime/showtime.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/geoxnewyear16-h5app/css/share.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/geoxnewyear16-h5app/css/app.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/geoxnewyear16-h5app/js/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/geoxnewyear16-h5app/share.php",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/showtime/README.md",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/CRAZYBEA/crazybea-desktop/css/home.css",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/CRAZYBEA/crazybea-desktop/script/lib/air-datepicker/css/datepicker.css",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/CRAZYBEA/crazybea-desktop/script/mod/campaign/overall-engagement-by-area/main.js",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/CRAZYBEA/crazybea-desktop/script/mod/accountadmin-list/main.js",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/CRAZYBEA/crazybea-desktop/style/app/main.css",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/CRAZYBEA/crazybea-desktop/script/lib/app/main.js",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/CRAZYBEA/crazybea-desktop/script/lib/yom/require-lite.js",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/CRAZYBEA/crazybea-desktop/script/lib/air-datepicker/js/datepicker.min.js",
+		"/Users/createc/Documents/dev/projects/CREATEC/20151221 madness/sourcecode from dayang/madness/README.md",
+		"/Users/createc/Documents/dev/projects/CREATEC/20160113 GEOX新年h5/需求/分享文案.txt",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/CRAZYBEA/crazybea-desktop/script/lib/riot/main.js",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/CRAZYBEA/crazybea-desktop/html/login2.html",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/CRAZYBEA/crazybea-desktop/www/script/lib/riot/main.js",
+		"/Users/createc/Documents/dev/projects/CREATEC-Solutions/CRAZYBEA/crazy-bee-mobile/script/lib/yom/require-lite.js",
+		"/Users/createc/Documents/dev/projects/CREATEC/20151224 24hours/24hours-h5app/index.html",
+		"/Users/createc/Documents/dev/projects/CREATEC/20151224 24hours/24hours-h5app/js/audioplayer/audioplayer.html",
+		"/Users/createc/Documents/dev/projects/CREATEC/20151224 24hours/24hours-h5app/js/audioplayer/audioplayer.css",
+		"/Users/createc/Documents/dev/projects/CREATEC/20151224 24hours/24hours-h5app/js/audioplayer/audioplayer.js",
+		"/Users/createc/Documents/dev/projects/CREATEC/20151224 24hours/24hours-h5app/weChat/weChatShareJS.php",
+		"/Users/createc/Documents/dev/projects/CREATEC/20151224 24hours/24hours-h5app/js/app.js",
+		"/Users/createc/Documents/dev/projects/CREATEC/20151224 24hours/24hours-h5app/db/24hours.sql",
+		"/Users/createc/Documents/dev/projects/CREATEC/20151224 24hours/24hours-h5app/db/adduser.php",
+		"/Users/createc/Documents/dev/projects/CREATEC/20151224 24hours/24hours-h5app/db/connect.php",
+		"/Users/createc/Documents/dev/projects/CREATEC/20151205 luolai/luolai-h5-20151205/css/app.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/luolai-h5-20151205/weChat/config.php",
+		"/Users/createc/Documents/dev/projects/CREATEC/20151217 shaketowin/shaketowindemo-h5-app/readme.txt",
+		"/Users/createc/Documents/dev/projects/CREATEC/20151217 shaketowin/shaketowindemo-h5-app/vitagreen_index.html",
+		"/Users/createc/Documents/dev/projects/CREATEC/20151217 shaketowin/shaketowindemo-h5-app/geox_index.html",
+		"/Users/createc/Documents/dev/projects/CREATEC/20151217 shaketowin/shaketowindemo-h5-app/css/app.css",
+		"/Users/createc/Documents/dev/projects/CREATEC/20151217 shaketowin/shaketowin_demo/js/app.js",
+		"/Users/createc/Documents/dev/projects/CREATEC/20151205 luolai/luolai-h5-20151205coupon1/js/player2.js",
+		"/Users/createc/Documents/dev/projects/CREATEC/20151205 luolai/luolai-h5-20151205coupon1/js/app.js",
+		"/Users/createc/Documents/dev/projects/CREATEC/20151205 luolai/luolai-h5-20151205coupon/js/player2.js",
+		"/Users/createc/Documents/dev/projects/CREATEC/20151205 luolai/luolai-h5-20151205coupon/js/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/luolai-h5-20151205/db/getcurrentplayerrank.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/luolai-h5-20151205/weChat/weChatShareJS.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/luolai-h5-20151205coupon/player2.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/luolai-h5-20151205coupon/index.php",
+		"/Users/createc/Documents/dev/projects/CREATEC/20151205 luolai/luolai-h5-20151205-c/readme.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-appforappkol/app.appcache",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-appforappkol/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-appforappkol/js/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/css/app.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/js/zepto/zepto.min.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-appforappkol/readme.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-appforappkol/weChat/config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/js/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/homepage.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/weChat/weChatShareJS.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/weChat/config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/untitled",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/app.appcache",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/appcache/app.appcache",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/cache/app.appcache",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/weChat/index.php",
+		"/Users/createc/Documents/dev/projects/CREATEC/20151013 善林宝/PSD/shanlingbaoVOKjefPSD/封面.psd",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/readme.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/demo.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/db/shanelinbao.sql",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/js/timer/timer.min.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/js/motion/overlay.min.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/db/addscore.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/test.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/db/getrank.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/weChat/weChatId.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/db/getcurrentuserrank.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/shanlingbao-h5-app.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/db/isregister.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/db/adduser.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/weChat/getopenid.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/tracking/tracking.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/shanlinbao-h5-app/db/connect.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"m"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"(",
+			")",
+			"(",
+			"WxPayUnifiedOrder",
+			"getbrand_wcpay",
+			"alert",
+			"editAddress",
+			"token",
+			"Socialite",
+			"scopes",
+			"55",
+			"getMsgByDate",
+			"o1zitjoFm0ABYpU4lFZAXRTnBwSk",
+			"vince",
+			"JC",
+			"kevin",
+			"rike",
+			"jef",
+			"JM",
+			"Zhi",
+			"Zhiding",
+			"Kobe",
+			"$token",
+			"wTOKEN",
+			"TOKEN",
+			"}",
+			"area2",
+			"quotes",
+			"avenirnext",
+			"geoxnewyear16",
+			"pid",
+			"copy",
+			"sass",
+			"sassDir",
+			"compass",
+			"css",
+			"main.css",
+			"compass",
+			"sass",
+			"useminPrepare",
+			"usemin",
+			"modernizr",
+			"modernizr.js",
+			".js",
+			"js",
+			"main",
+			"cssmin",
+			"[{\n",
+			"css",
+			"cssmin",
+			".css",
+			"cssmin",
+			"loadNpmTasks",
+			"mocha",
+			"mocha:all",
+			"script",
+			"imagemin",
+			"min",
+			"-min",
+			"imagemin",
+			"eslint",
+			"memcpyU8",
+			"9000",
+			"grunt.registerTask('serve',",
+			"php",
+			"grunt.registerTask('server', ['php'])",
+			"80",
+			"grunt.registerTask('default'",
+			"dev:",
+			"grunt.loadNpmTask",
+			"grunt.registerTask",
+			"php",
+			"grunt.initConfig",
+			"app.template.swiper.lock",
+			"app.template.swiper.touch",
+			"app.template.swiper.lock",
+			"app.template.swiper.mySwiper.lockSwipes",
+			"app.template.swiper.mySwiper",
+			"app.template.swiper.mySwiper.",
+			"scripts",
+			"libsass",
+			"config",
+			"useminPrepare",
+			"useminPrepare:html",
+			"sass",
+			"serve",
+			"Tasks",
+			"loadNpmTasks",
+			"connect",
+			"big",
+			"icon: \"http://www.createcdigital.com/geox-newyear-h5app\"",
+			"http://www.createcdigital.com/GEOX",
+			"uglify",
+			"hover",
+			".datepicker--cell.-range-from-",
+			"click",
+			"datepicker",
+			"dialog",
+			"digi",
+			"showHelp",
+			"{ i",
+			"toggle",
+			"switchType",
+			"update",
+			"bind",
+			"sb-mod__body",
+			".sb-mod__body",
+			".float-alert",
+			"navBar",
+			"\"module\"",
+			"module",
+			"exports",
+			"switchType",
+			"update",
+			"toggleItem",
+			"nextType",
+			"types",
+			"nextType",
+			"event",
+			"m",
+			"route",
+			"ROUTE",
+			"icon icon-menu",
+			"define",
+			"category",
+			"prevType",
+			"category",
+			"font"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"[",
+			"]",
+			"56",
+			"kewgreenhotel",
+			"//app.template.swiper.mySwiper.lockSwipes",
+			"icon: \"http://www.createcdigital.com/geox-newyear-h5app/\"",
+			"http://www.createcdigital.com/geox-newyear-h5app",
+			"float: left; width:30%; padding: 10% 1%;",
+			"float: left; width:30%; padding: 5% 1%;",
+			"float: left; width:30%;",
+			"<div class=\"chart\" style=\"float:left\">",
+			"bee-cell small small-vertical",
+			"",
+			"totalamountofshakebyarea",
+			"<img src=\"img/transparent.png\" alt=\"\" class=\"d",
+			"24hours",
+			"border: 0px solid red;",
+			"geox",
+			" border: 0px solid red;",
+			".vitagreen",
+			"images/vitagreen/",
+			".vitagreen",
+			"border: 0px solid yellow;",
+			"640",
+			"app.p4.show_errorhit",
+			"",
+			"app",
+			"app.tools.geturlparam",
+			"data-src=\"im",
+			"",
+			"app.template.swiper.mySwiper",
+			"$ ",
+			"tracking.share",
+			"tracking",
+			"`",
+			"mysqli_fetch_object",
+			"mysqli_query($conn, ",
+			"prize_coffeecoupon",
+			"prize_saladcoupon",
+			"prize_buy200get100",
+			"prize_juicecoupon",
+			"prize_wrampack",
+			"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCIgd2lkdGg9IjI3IiBoZWlnaHQ9IjQ2IiB2aWV3Qm94PSIwIDAgMjcgNDYiPgogIDxpbWFnZSB4bGluazpocmVmPSJkYXRhOmltZy9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFCc0FBQUF1Q0FNQUFBRHV2Wko1QUFBQUJHZEJUVUVBQUxHUEMveGhCUUFBQUNCalNGSk5BQUI2SmdBQWdJUUFBUG9BQUFDQTZBQUFkVEFBQU9wZ0FBQTZtQUFBRjNDY3VsRThBQUFCbTFCTVZFVUFBQUQ5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzBBQUFCMnZpdnFBQUFBaDNSU1RsTUFFbHRKQkFFUml2blpJeCtWK1BScUF4eWI3MlFwcmYzb1VpcXU0Z0kyd05vOUJjSFNORVhSeFN0UTFMMEtWdCt2R2dkbDVhZ1U2NVlMZC9LU0RSaUQ4L3Q5OXlIMUhaM3VYaXl3VHpDeTRFUTQxanRDeE04eEdTTE03VmRteUhhNmhBYXEvSk1JbktLTi9uOFBiMkg2VTBNL0orbjJUZDFkRm1zUXczdTBpYWVaQ1ppNURpN21nczVKQUFBQUFXSkxSMFFBaUFVZFNBQUFBQWx3U0ZsekFBQUxFZ0FBQ3hJQjB0MSsvQUFBQVZSSlJFRlVPTXQxMG5jN2dtRVVCdkNYM3FaUnlnZ2xsY29LdllnaWV0QWdHZGw3dmJKbDc3M3VyKzBMblBQOCs3dnVjNTNudm80azBhK29XQ1BUb3RYcERVWVRUU1dsWmVWbWtpd1ZWdGdxeVpIYXF1b2FleTJaa3V2cTRkQTRLWEkydU5Eb0psTWV0eGROUGkxSi9nQ2FXK2hVYXh2YTZYOEZPenJSRlNKSjZlNUJiNWp1eWR5SC9nZzlNRHFBd1JoSlE4TnhNVUszRzlhTDBhaEMwcGhWSkNySmxDV1pRbnFjTE40NWtZRjlrazVscHpBOVF4WXZ6M3FSbXlOVDB2d0NGcGRvV2w1QVlJVW1LYktLTlQ5amtza0J3enFIeXptSURTZUR1azJJTGVhS3BkZzJ4TTR1dDlCZWpicXZNSmcvVU5YRElJUEtrVGpPUkJqY1BSRnduVElvbndtc2hoblVuaGRnRERFb1hSalFZK0x3TW9GMGxrT2ZEZkVyRHE5dmNIdkhZZkllaFFjT0h3TVFUeFlHbjE4Z1hqME14dDRnM3JubWd4K3ErUHhpTVArdHFpa3VxYnpiZm42NWJXWC9YLzRmK1lSRjNodE8waFFBQUFBQVNVVk9SSzVDWUlJPSIgd2lkdGg9IjI3IiBoZWlnaHQ9IjQ2Ii8+Cjwvc3ZnPgo=",
+			"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCIgd2lkdGg9IjI3IiBoZWlnaHQ9IjQ3IiB2aWV3Qm94PSIwIDAgMjcgNDciPgogIDxpbWFnZSB4bGluazpocmVmPSJkYXRhOmltZy9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFCc0FBQUF2Q0FNQUFBQWw0VUhjQUFBQUJHZEJUVUVBQUxHUEMveGhCUUFBQUNCalNGSk5BQUI2SmdBQWdJUUFBUG9BQUFDQTZBQUFkVEFBQU9wZ0FBQTZtQUFBRjNDY3VsRThBQUFCdVZCTVZFVUFBQUQ5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXcwQUFBQkw4TkZMQUFBQWtYUlNUbE1BR0JzUXVyVk1CaE9oL05KVUJBRXFuZE5nQ2lhVitPQmxDeDZMOXVKeUR4eC84T3QyRlJSOTdvUVdhK1QwaUNJTzNpRUhXZG42bkM0SldNMytwaTlLekxFNkJVaTh0ajQ5dzBjRE42ckdVakg3VnllYjEyU1M0V1lOaXZYbGRSRjU3WGZwOFlVYWFOK0cydGdTeFhRQzFXY2YrU3pzT2ZKRzkxYmpHY203cmFEOW5xK1F2NEJ4WWlSVFF2TTFTU25RYWlXN2xnQUFBQUZpUzBkRUFJZ0ZIVWdBQUFBSmNFaFpjd0FBQ3hJQUFBc1NBZExkZnZ3QUFBRmpTVVJCVkRqTGRkUnBPMEpSRUFmd215S2lpTHBJaWE1c1dhSzZ4QzFiOXZXaVJZcFM5cFFsMmJLVGZabHZ6QWVZT1c5L3o1bnpuUCtaT1F3anlXT29KWlhsRjhnSkt5eFNGSmNvY1ZPVmxpblU1UlhFVG8yV3JheXFKbEJYb3pmVUdnbXNxemR4RFdZQ0c1dTQ1cFpXNmlhV3R2YU9UZ0t0bGk1VzIwMmd6ZTdnZTNvSmRQYjFDeTYzaXRDQlFXRm9tTEFSenlpTWpSUDVNUk15bUp3aWJIcG1GdWJtYllRdXVFVDFJbFYyYVZuMCtxamtOWDU5WUNWSVlONXFLTHkyVG1Ha09ib2hJYkF3RW90dmJoRm8zTjdoZHFVRW12ZGduemd5Y1FCaU1vV1M1QkQ0STV5T0RYQml4d3VtVDBIdndTa1RoN01NVHVjWHdLVnh1anlCSzd5bFVqNGV2Rm1VbEVrUnJoTW95VnRFdUxHaVpQUHp3aTMrcXM2N2U4V0RFNlhxUjRGL3dydEkrZ3hpRHAvN3hrSGdYL0QyeWpxQWY4V0Rmd3NEKzQ3bjVJNUM2QU9uaVU4d2ZlSDB6VUxzQjZmRUx3UjBPREhCbkovNlBSaHFpUC9YSC9SelNOL2V0OGV1QUFBQUFFbEZUa1N1UW1DQyIgd2lkdGg9IjI3IiBoZWlnaHQ9IjQ3Ii8+Cjwvc3ZnPgo=",
+			"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCIgd2lkdGg9IjI3IiBoZWlnaHQ9IjQ2IiB2aWV3Qm94PSIwIDAgMjcgNDYiPgogIDxpbWFnZSB4bGluazpocmVmPSJkYXRhOmltZy9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFCc0FBQUF1Q0FNQUFBRHV2Wko1QUFBQUJHZEJUVUVBQUxHUEMveGhCUUFBQUNCalNGSk5BQUI2SmdBQWdJUUFBUG9BQUFDQTZBQUFkVEFBQU9wZ0FBQTZtQUFBRjNDY3VsRThBQUFCbTFCTVZFVUFBQUQ5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzM5YXczOWF3MzlhdzBBQUFCMnZpdnFBQUFBaDNSU1RsTUFFbHRKQkFFUml2blpJeCtWK1BScUF4eWI3MlFwcmYzb1VpcXU0Z0kyd05vOUJjSFNORVhSeFN0UTFMMEtWdCt2R2dkbDVhZ1U2NVlMZC9LU0RSaUQ4L3Q5OXlIMUhaM3VYaXl3VHpDeTRFUTQxanRDeE04eEdTTE03VmRteUhhNmhBYXEvSk1JbktLTi9uOFBiMkg2VTBNL0orbjJUZDFkRm1zUXczdTBpYWVaQ1ppNURpN21nczVKQUFBQUFXSkxSMFFBaUFVZFNBQUFBQWx3U0ZsekFBQUxFZ0FBQ3hJQjB0MSsvQUFBQVZSSlJFRlVPTXQxMG5jN2dtRVVCdkNYM3FaUnlnZ2xsY29LdllnaWV0QWdHZGw3dmJKbDc3M3VyKzBMblBQOCs3dnVjNTNudm80azBhK29XQ1BUb3RYcERVWVRUU1dsWmVWbWtpd1ZWdGdxeVpIYXF1b2FleTJaa3V2cTRkQTRLWEkydU5Eb0psTWV0eGROUGkxSi9nQ2FXK2hVYXh2YTZYOEZPenJSRlNKSjZlNUJiNWp1eWR5SC9nZzlNRHFBd1JoSlE4TnhNVUszRzlhTDBhaEMwcGhWSkNySmxDV1pRbnFjTE40NWtZRjlrazVscHpBOVF4WXZ6M3FSbXlOVDB2d0NGcGRvV2w1QVlJVW1LYktLTlQ5amtza0J3enFIeXptSURTZUR1azJJTGVhS3BkZzJ4TTR1dDlCZWpicXZNSmcvVU5YRElJUEtrVGpPUkJqY1BSRnduVElvbndtc2hoblVuaGRnRERFb1hSalFZK0x3TW9GMGxrT2ZEZkVyRHE5dmNIdkhZZkllaFFjT0h3TVFUeFlHbjE4Z1hqME14dDRnM3JubWd4K3ErUHhpTVArdHFpa3VxYnpiZm42NWJXWC9YLzRmK1lSRjNodE8waFFBQUFBQVNVVk9SSzVDWUlJPSIgd2lkdGg9IjI3IiBoZWlnaHQ9IjQ2Ii8+Cjwvc3ZnPgo=",
+			"en",
+			"set",
+			"$set",
+			"=",
+			"?",
+			"/",
+			"bbso-h5-app-demo"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wxpay/pub/pay.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3948,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/pay.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10906,
+								10906
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 4.0,
+						"translation.y": 6364.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "db/getsharelog.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "db/molirun.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1170,
+								1175
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 6348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1285,
+								1285
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.7,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "molirunh5160303.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"restore_index":
+			{
+				"232":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"233":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"235":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"240":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"265":
+				{
+					"group": 0,
+					"index": 4
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

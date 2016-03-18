@@ -1,0 +1,52 @@
+/*!
+ *
+ * Copyright 2016 CREATEC(www.createcdigital.com)
+ *
+ */
+
+@charset "utf-8";
+
+/* reset */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{margin:0;padding:0;}
+html,body{height:100%}
+body,input,button,textarea,select{font-size:16px; font-family: "SimHei",Tahoma,Helvetica,Arial; color:#fff;overflow: hidden;}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}
+table{border-collapse:collapse;border-spacing:0}
+fieldset,img{border:0}
+li,dd{list-style:none}
+a{color:#d30000;text-decoration:none}
+a:hover,a:active{text-decoration:underline}
+section,article,aside,header,footer,nav,dialog,figure,hgroup{display:block}
+img{max-width:100%;}
+.hiddenimg{display:none}
+
+/* common */
+body{background:#fff;}
+.swiper-container{width:640px; height:100%; background: #fff; margin: 0 auto; display: none; user-select: none; touch-callout:none; -webkit-user-select: none; -webkit-touch-callout:none;}     
+
+
+/* audio */
+.audio-icon {position: absolute; right: 30px; top: 30px; z-index: 1000; display: block; width: 44px; height: 44px;background-repeat: no-repeat; background-image: url(../media/music-icon.png); background-size: contain;}
+.audio-icon-stop {background-image: url(../media/music-icon-s.png);}
+
+/*-- userinfo.html
+====================================================== */
+/* p1 */
+.p1{background-image: url(../img/userinfo/bg.png); background-repeat: no-repeat;}
+.p1 input{width: 264px; height: 34px;font-size: 24px;font-width:5px;color: #5d87ad;border: 2px solid #f4bdbd;padding-left: 2px;vertical-align:middle;}
+.p1 .phonenumber{position: absolute;left: 187px;top: 550px;}
+.p1 .hit{width: 640px; height: 34px; font-size: 24px; color:red; position: absolute;top: 700px; text-align: center;}
+
+.p1 .btn-query{width: 150px; height: 150px;position: absolute;left: 240px;top: 840px;}
+
+/* p2 */
+.p2{background-image: url(../img/userinfo/p2_bg.png); background-repeat: no-repeat;}
+.p2 div{width: 200px;font-size: 25px;font-width: 5px;color:#5d87ad;text-align: center;padding-top: 7.5px;}
+.p2 .name{position: absolute;left: 220px;top: 367px;}
+.p2 .sex{position: absolute;left: 220px;top: 443px;}
+.p2 .grouptype{position: absolute;left: 220px;top: 519px;}
+.p2 .packagetype{position: absolute;left: 220px;top: 600px;}
+.p2 .teesize{position: absolute;left: 220px;top: 675px;}
+
+.p2 .btn-share{width: 150px; height: 150px;position: absolute;left: 240px;top: 840px;}
+.m-share-btn-close{width: 140px; height: 120px;position: absolute;left: 210px;top: 850px;}

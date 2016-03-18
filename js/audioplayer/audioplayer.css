@@ -1,0 +1,100 @@
+.player {
+  position: absolute;
+  top: 670px;
+  left: 91px;
+  width: 460px;
+  margin: 0px auto;
+  font-family: "Helvetica", sans-serif;
+  font-weight: bold;
+}
+.player .player-section {
+  width: 460px;
+  height: 180px;
+  position: relative;
+}
+.player .player-section .left-time {
+  top: 40px;
+  left: 0px;
+  position: absolute;
+  color: #fff;
+  font-size: 20px;
+}
+.player .player-section .right-time {
+  top: 40px;
+  right: 0px;
+  position: absolute;
+  color: #fff;
+  font-size: 20px;
+}
+.player .controls {
+  height: 90px;
+  background: #622c5a;
+  padding-top: 22px;
+  box-sizing: border-box;
+}
+.player .controls .pp-button {
+  cursor: pointer;
+  margin: 0px auto;
+  width: 45px;
+  height: 45px;
+  background: white;
+  border-radius: 50%;
+}
+.player .controls .pp-button .icon {
+  position: relative;
+}
+.player .controls .pp-button .icon:not(.playing):before {
+  position: absolute;
+  top: 12px;
+  left: 18px;
+  display: block;
+  content: ' ';
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 10px 0 10px 15px;
+  border-color: transparent transparent transparent #622c5a;
+}
+.player .controls .pp-button .icon.playing:before {
+  position: absolute;
+  top: 12px;
+  left: 15px;
+  display: block;
+  content: ' ';
+  width: 6px;
+  height: 20px;
+  background: #622c5a;
+}
+.player .controls .pp-button .icon.playing:after {
+  position: absolute;
+  top: 12px;
+  left: 25px;
+  display: block;
+  content: ' ';
+  width: 6px;
+  height: 20px;
+  background: #622c5a;
+}
+.player input {
+  display: none;
+}
+.player input[type="range"] {
+  -webkit-appearance: none;
+  outline: none;
+  position: absolute;
+  top: 18px;
+  display: block;
+  width: 460px;
+  height: 11px;
+  background-color: #FFF;
+}
+.player input::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 15px;
+  height: 15px;
+  position: relative;
+  left: 1px;
+  border: 2px solid white;
+  border-radius: 50%;
+  background: green;
+}
